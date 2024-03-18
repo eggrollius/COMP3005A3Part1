@@ -3,7 +3,7 @@ COMP3005 DBMS, Assignment 3 part 1
 By: Ethan Huynh - 101272425
 
 # Video Link:
-
+https://youtu.be/FEzWV5yfeyA
 
 # Setup
 1. Download the git repo
